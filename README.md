@@ -1,1 +1,1 @@
-![giwoong01's GitHub stats](https://github-readme-stats.vercel.app/api?username=giwoong01&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giwoong01&layout=compact&theme=dark)
