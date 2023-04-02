@@ -4,6 +4,7 @@
 </br>
 <p> 
 <a href="mailto:dev.choi0409@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://giwoong01.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
 </p>
 
 <h3><b>📚 Languages 📚</b></h3>
