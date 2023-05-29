@@ -10,5 +10,4 @@
 </p>
 
 <h3><b>Languages</b></h3>
-</br>
 <img src="https://img.shields.io/badge/java-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
