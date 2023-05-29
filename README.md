@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- [기록하는 공간](https://giwoong01.tistory.com/)
+[기록하는 공간](https://giwoong01.tistory.com/)
 
 
 <h3><b>Social</b></h3>
