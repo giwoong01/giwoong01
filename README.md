@@ -7,7 +7,10 @@
 <a href="mailto:dev.choi0409@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-<h3><b>Languages</b></h3>
+<h3><b>Platforms & Languages</b></h3>
 <p>
-<img src="https://img.shields.io/badge/java-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mariadb-003545?style=flat&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 </p>
