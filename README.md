@@ -6,7 +6,7 @@
 <p> 
 <a href="mailto:dev.choi0409@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
-
+ 
 <h3><b>Platforms & Languages</b></h3>
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
