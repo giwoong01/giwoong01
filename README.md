@@ -11,9 +11,14 @@
  
 <h3><b>Platforms & Languages</b></h3>
 <p>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Mariadb-003545?style=flat&logo=mariadb&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/gcp-4285F4?style=flat&logo=googlecloud&logoColor=white" >
+  <img src="https://img.shields.io/badge/React-61DBFB?style=flat&logo=React&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+  <img src="https://img.shields.io/badge/vercel-000000?style=flat&logo=vercel&logoColor=white">
 </p>
 
