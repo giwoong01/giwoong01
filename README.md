@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/Mariadb-003545?style=flat&logo=mariadb&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white" >
+ <br>
   <img src="https://img.shields.io/badge/React-61DBFB?style=flat&logo=React&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
   <img src="https://img.shields.io/badge/vercel-000000?style=flat&logo=vercel&logoColor=white">
