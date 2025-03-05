@@ -3,7 +3,14 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgiwoong01&count_bg=%2341A6E3&title_bg=%23727272&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-💻 blog : [기록하는 공간](https://giwoong01.tistory.com/)
+---
+
+💻 Blog
+
+[기록하는 공간](https://giwoong01.tistory.com/)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=dev_choi0409)](https://velog.io/@dev_choi0409) <br />
+
 
 <h3><b>Social</b></h3>
 <p> 
@@ -15,6 +22,7 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Mariadb-003545?style=flat&logo=mariadb&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white" >
