@@ -1,10 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hello!&section=header&reversal=false&fontSize=60)
 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgiwoong01&count_bg=%2341A6E3&title_bg=%23727272&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
----
-
 💻 Blog
 
 [기록하는 공간](https://giwoong01.tistory.com/)
