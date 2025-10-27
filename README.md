@@ -2,13 +2,13 @@
 
 <h2><b>Blog</b></h2>
 
-Velog: 
+[Velog]
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=dev_choi0409)](https://velog.io/@dev_choi0409)
 
-Tistory: 
+[TIL] [Til-blog](https://giwoong01.github.io/til-blog/#/til)
 
-[기록하는 공간](https://giwoong01.tistory.com/)
+[Tistory] [기록하는 공간](https://giwoong01.tistory.com/)
 
 
 <h2><b>Social</b></h2>
