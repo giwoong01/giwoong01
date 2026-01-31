@@ -2,9 +2,7 @@
 
 <h2><b>Blog</b></h2>
 
-[Velog]
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=dev_choi0409)](https://velog.io/@dev_choi0409)
+[Velog] [Velog](https://velog.io/@dev_choi0409)
 
 [TIL] [Til-blog](https://giwoong01.github.io/til-blog/#/til)
 
