@@ -6,9 +6,6 @@
 
 [TIL] [Til-blog](https://giwoong01.github.io/til-blog/#/til)
 
-[Tistory] [기록하는 공간](https://giwoong01.tistory.com/)
-
-
 <h2><b>Social</b></h2>
 <p> 
 <a href="mailto:dev.choi0409@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=flat-square&logo=Gmail&logoColor=white"/></a>
